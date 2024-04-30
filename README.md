@@ -1,5 +1,5 @@
-# gpt-fast-cpp
-Simple and efficient cpp transformer text generation.
+# gpt-fast-python
+Simple and efficient pytorch transformer text generation.
 
 This repository contains two large language model inference frameworks based on PyTorch.
 ## make-llama-faster
