@@ -1,0 +1,6 @@
+[submodule "llama-fast"]
+	path = llama-fast
+	url = https://github.com/PasserBy4/llama-fast.git
+[submodule "make-llama-faster"]
+	path = make-llama-faster
+	url = https://github.com/PasserBy4/make-llama-faster.git
