@@ -8,4 +8,4 @@ Initial version of the inference framework, developed based on the [llama2](http
 Current version of the inference framework, additionally supports llama3 models, tensor parallelism, speculative decoding, and DRAM usage testing functionalities.
 
 Experiments for Llama3-8b on NVIDIA A6000 GPUs:
-![llama3_7b_a6000](llama3_8b_a6000.png)
+![llama3_8b_a6000](llama3_7b_a6000.png)
