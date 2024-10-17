@@ -1,4 +1,4 @@
-# gpt-fast-python
+# llama-fast-python
 Simple and efficient pytorch transformer text generation.
 
 This repository contains two large language model inference frameworks based on PyTorch.
